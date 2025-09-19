@@ -1,0 +1,14 @@
+C:\Users\Afsca\OneDrive\Escritorio\tecnicas de programacion IFTS11\segundo tramo\Practicas\trabajos practicos obligatorios\Parcial_Anterior_practica\bin\Debug\net8.0\Parcial_Anterior_practica.exe
+C:\Users\Afsca\OneDrive\Escritorio\tecnicas de programacion IFTS11\segundo tramo\Practicas\trabajos practicos obligatorios\Parcial_Anterior_practica\bin\Debug\net8.0\Parcial_Anterior_practica.deps.json
+C:\Users\Afsca\OneDrive\Escritorio\tecnicas de programacion IFTS11\segundo tramo\Practicas\trabajos practicos obligatorios\Parcial_Anterior_practica\bin\Debug\net8.0\Parcial_Anterior_practica.runtimeconfig.json
+C:\Users\Afsca\OneDrive\Escritorio\tecnicas de programacion IFTS11\segundo tramo\Practicas\trabajos practicos obligatorios\Parcial_Anterior_practica\bin\Debug\net8.0\Parcial_Anterior_practica.dll
+C:\Users\Afsca\OneDrive\Escritorio\tecnicas de programacion IFTS11\segundo tramo\Practicas\trabajos practicos obligatorios\Parcial_Anterior_practica\bin\Debug\net8.0\Parcial_Anterior_practica.pdb
+C:\Users\Afsca\OneDrive\Escritorio\tecnicas de programacion IFTS11\segundo tramo\Practicas\trabajos practicos obligatorios\Parcial_Anterior_practica\obj\Debug\net8.0\Parcial_Anterior_practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afsca\OneDrive\Escritorio\tecnicas de programacion IFTS11\segundo tramo\Practicas\trabajos practicos obligatorios\Parcial_Anterior_practica\obj\Debug\net8.0\Parcial_Anterior_practica.AssemblyInfoInputs.cache
+C:\Users\Afsca\OneDrive\Escritorio\tecnicas de programacion IFTS11\segundo tramo\Practicas\trabajos practicos obligatorios\Parcial_Anterior_practica\obj\Debug\net8.0\Parcial_Anterior_practica.AssemblyInfo.cs
+C:\Users\Afsca\OneDrive\Escritorio\tecnicas de programacion IFTS11\segundo tramo\Practicas\trabajos practicos obligatorios\Parcial_Anterior_practica\obj\Debug\net8.0\Parcial_Anterior_practica.csproj.CoreCompileInputs.cache
+C:\Users\Afsca\OneDrive\Escritorio\tecnicas de programacion IFTS11\segundo tramo\Practicas\trabajos practicos obligatorios\Parcial_Anterior_practica\obj\Debug\net8.0\Parcial_Anterior_practica.dll
+C:\Users\Afsca\OneDrive\Escritorio\tecnicas de programacion IFTS11\segundo tramo\Practicas\trabajos practicos obligatorios\Parcial_Anterior_practica\obj\Debug\net8.0\refint\Parcial_Anterior_practica.dll
+C:\Users\Afsca\OneDrive\Escritorio\tecnicas de programacion IFTS11\segundo tramo\Practicas\trabajos practicos obligatorios\Parcial_Anterior_practica\obj\Debug\net8.0\Parcial_Anterior_practica.pdb
+C:\Users\Afsca\OneDrive\Escritorio\tecnicas de programacion IFTS11\segundo tramo\Practicas\trabajos practicos obligatorios\Parcial_Anterior_practica\obj\Debug\net8.0\Parcial_Anterior_practica.genruntimeconfig.cache
+C:\Users\Afsca\OneDrive\Escritorio\tecnicas de programacion IFTS11\segundo tramo\Practicas\trabajos practicos obligatorios\Parcial_Anterior_practica\obj\Debug\net8.0\ref\Parcial_Anterior_practica.dll

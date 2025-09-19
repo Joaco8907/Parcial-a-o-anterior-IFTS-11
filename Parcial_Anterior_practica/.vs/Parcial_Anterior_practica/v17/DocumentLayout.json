@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Afsca\\OneDrive\\Escritorio\\tecnicas de programacion IFTS11\\segundo tramo\\Practicas\\trabajos practicos obligatorios\\Parcial_Anterior_practica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8246EDB-14C8-4E18-8B40-9F9E21C45825}|Parcial_Anterior_practica.csproj|c:\\users\\afsca\\onedrive\\escritorio\\tecnicas de programacion ifts11\\segundo tramo\\practicas\\trabajos practicos obligatorios\\parcial_anterior_practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8246EDB-14C8-4E18-8B40-9F9E21C45825}|Parcial_Anterior_practica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8246EDB-14C8-4E18-8B40-9F9E21C45825}|Parcial_Anterior_practica.csproj|c:\\users\\afsca\\onedrive\\escritorio\\tecnicas de programacion ifts11\\segundo tramo\\practicas\\trabajos practicos obligatorios\\parcial_anterior_practica\\clases\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8246EDB-14C8-4E18-8B40-9F9E21C45825}|Parcial_Anterior_practica.csproj|solutionrelative:clases\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8246EDB-14C8-4E18-8B40-9F9E21C45825}|Parcial_Anterior_practica.csproj|c:\\users\\afsca\\onedrive\\escritorio\\tecnicas de programacion ifts11\\segundo tramo\\practicas\\trabajos practicos obligatorios\\parcial_anterior_practica\\servicio\\factoryempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8246EDB-14C8-4E18-8B40-9F9E21C45825}|Parcial_Anterior_practica.csproj|solutionrelative:servicio\\factoryempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8246EDB-14C8-4E18-8B40-9F9E21C45825}|Parcial_Anterior_practica.csproj|c:\\users\\afsca\\onedrive\\escritorio\\tecnicas de programacion ifts11\\segundo tramo\\practicas\\trabajos practicos obligatorios\\parcial_anterior_practica\\clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8246EDB-14C8-4E18-8B40-9F9E21C45825}|Parcial_Anterior_practica.csproj|solutionrelative:clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8246EDB-14C8-4E18-8B40-9F9E21C45825}|Parcial_Anterior_practica.csproj|c:\\users\\afsca\\onedrive\\escritorio\\tecnicas de programacion ifts11\\segundo tramo\\practicas\\trabajos practicos obligatorios\\parcial_anterior_practica\\enums\\tipo_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8246EDB-14C8-4E18-8B40-9F9E21C45825}|Parcial_Anterior_practica.csproj|solutionrelative:enums\\tipo_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8246EDB-14C8-4E18-8B40-9F9E21C45825}|Parcial_Anterior_practica.csproj|c:\\users\\afsca\\onedrive\\escritorio\\tecnicas de programacion ifts11\\segundo tramo\\practicas\\trabajos practicos obligatorios\\parcial_anterior_practica\\parcial_anterior_practica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8246EDB-14C8-4E18-8B40-9F9E21C45825}|Parcial_Anterior_practica.csproj|solutionrelative:parcial_anterior_practica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8246EDB-14C8-4E18-8B40-9F9E21C45825}|Parcial_Anterior_practica.csproj|c:\\users\\afsca\\onedrive\\escritorio\\tecnicas de programacion ifts11\\segundo tramo\\practicas\\trabajos practicos obligatorios\\parcial_anterior_practica\\clases\\programador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8246EDB-14C8-4E18-8B40-9F9E21C45825}|Parcial_Anterior_practica.csproj|solutionrelative:clases\\programador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FactoryEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\Afsca\\OneDrive\\Escritorio\\tecnicas de programacion IFTS11\\segundo tramo\\Practicas\\trabajos practicos obligatorios\\Parcial_Anterior_practica\\Servicio\\FactoryEmpleado.cs",
+              "RelativeDocumentMoniker": "Servicio\\FactoryEmpleado.cs",
+              "ToolTip": "C:\\Users\\Afsca\\OneDrive\\Escritorio\\tecnicas de programacion IFTS11\\segundo tramo\\Practicas\\trabajos practicos obligatorios\\Parcial_Anterior_practica\\Servicio\\FactoryEmpleado.cs",
+              "RelativeToolTip": "Servicio\\FactoryEmpleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T16:18:45.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tipo_test.cs",
+              "DocumentMoniker": "C:\\Users\\Afsca\\OneDrive\\Escritorio\\tecnicas de programacion IFTS11\\segundo tramo\\Practicas\\trabajos practicos obligatorios\\Parcial_Anterior_practica\\Enums\\Tipo_test.cs",
+              "RelativeDocumentMoniker": "Enums\\Tipo_test.cs",
+              "ToolTip": "C:\\Users\\Afsca\\OneDrive\\Escritorio\\tecnicas de programacion IFTS11\\segundo tramo\\Practicas\\trabajos practicos obligatorios\\Parcial_Anterior_practica\\Enums\\Tipo_test.cs",
+              "RelativeToolTip": "Enums\\Tipo_test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T16:14:12.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Parcial_Anterior_practica.csproj",
+              "DocumentMoniker": "C:\\Users\\Afsca\\OneDrive\\Escritorio\\tecnicas de programacion IFTS11\\segundo tramo\\Practicas\\trabajos practicos obligatorios\\Parcial_Anterior_practica\\Parcial_Anterior_practica.csproj",
+              "RelativeDocumentMoniker": "Parcial_Anterior_practica.csproj",
+              "ToolTip": "C:\\Users\\Afsca\\OneDrive\\Escritorio\\tecnicas de programacion IFTS11\\segundo tramo\\Practicas\\trabajos practicos obligatorios\\Parcial_Anterior_practica\\Parcial_Anterior_practica.csproj",
+              "RelativeToolTip": "Parcial_Anterior_practica.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-31T16:11:40.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tester.cs",
+              "DocumentMoniker": "C:\\Users\\Afsca\\OneDrive\\Escritorio\\tecnicas de programacion IFTS11\\segundo tramo\\Practicas\\trabajos practicos obligatorios\\Parcial_Anterior_practica\\Clases\\Tester.cs",
+              "RelativeDocumentMoniker": "Clases\\Tester.cs",
+              "ToolTip": "C:\\Users\\Afsca\\OneDrive\\Escritorio\\tecnicas de programacion IFTS11\\segundo tramo\\Practicas\\trabajos practicos obligatorios\\Parcial_Anterior_practica\\Clases\\Tester.cs",
+              "RelativeToolTip": "Clases\\Tester.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T16:10:01.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Programador.cs",
+              "DocumentMoniker": "C:\\Users\\Afsca\\OneDrive\\Escritorio\\tecnicas de programacion IFTS11\\segundo tramo\\Practicas\\trabajos practicos obligatorios\\Parcial_Anterior_practica\\Clases\\Programador.cs",
+              "RelativeDocumentMoniker": "Clases\\Programador.cs",
+              "ToolTip": "C:\\Users\\Afsca\\OneDrive\\Escritorio\\tecnicas de programacion IFTS11\\segundo tramo\\Practicas\\trabajos practicos obligatorios\\Parcial_Anterior_practica\\Clases\\Programador.cs",
+              "RelativeToolTip": "Clases\\Programador.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T16:08:04.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Afsca\\OneDrive\\Escritorio\\tecnicas de programacion IFTS11\\segundo tramo\\Practicas\\trabajos practicos obligatorios\\Parcial_Anterior_practica\\Clases\\Empleado.cs",
+              "RelativeDocumentMoniker": "Clases\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Afsca\\OneDrive\\Escritorio\\tecnicas de programacion IFTS11\\segundo tramo\\Practicas\\trabajos practicos obligatorios\\Parcial_Anterior_practica\\Clases\\Empleado.cs",
+              "RelativeToolTip": "Clases\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T16:05:57.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Afsca\\OneDrive\\Escritorio\\tecnicas de programacion IFTS11\\segundo tramo\\Practicas\\trabajos practicos obligatorios\\Parcial_Anterior_practica\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Afsca\\OneDrive\\Escritorio\\tecnicas de programacion IFTS11\\segundo tramo\\Practicas\\trabajos practicos obligatorios\\Parcial_Anterior_practica\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T13:06:10.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

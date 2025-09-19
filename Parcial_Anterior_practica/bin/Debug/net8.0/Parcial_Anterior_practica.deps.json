@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Parcial_Anterior_practica/1.0.0": {
+        "runtime": {
+          "Parcial_Anterior_practica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parcial_Anterior_practica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
